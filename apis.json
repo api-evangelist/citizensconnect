@@ -1,0 +1,107 @@
+{
+    "name": "CitizensConnect",
+    "description": "The official website of the City of Boston. Stay informed, request City services through 311, or contact the Mayor and City Council.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/734-citizensconnect.jpg",
+    "tags": [
+        "api provider",
+        "cities",
+        "data provider",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/citizensconnect\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CitizensConnect",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/734-citizensconnect.jpg",
+            "humanURL": "http:\/\/www.cityofboston.gov\/doit\/apps\/citizensconnect.asp",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/citizensconnect-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/citizensconnect-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.InnovationDistrict.org"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.innovationdistrict.org\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/city-of-boston-innovation-district"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/city-of-boston-office-of-the-mayor"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "andrea.campbell@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "michael.f.flaherty@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "a.e.george@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "ayanna.pressley@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "michelle.wu@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "lydia.edwards@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "ed.flynn@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "frank.baker@boston.gov"
+        },
+        {
+            "type": "Email",
+            "url": "timothy.mccarthy@boston.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/citizensconnect"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CityOfBoston"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.cityofboston.gov\/doit\/apps\/citizensconnect.asp"
+        }
+    ]
+}
